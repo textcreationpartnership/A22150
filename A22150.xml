@@ -1,0 +1,410 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Maiesties letters pattents to Sir William Erskin and Iohn Meldrum, for the lighthouse at Winterton</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1618</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22150</idno>
+            <idno type="STC">STC 8559</idno>
+            <idno type="STC">ESTC S3832</idno>
+            <idno type="EEBO-CITATION">33151054</idno>
+            <idno type="OCLC">ocm 33151054</idno>
+            <idno type="VID">28891</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22150)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28891)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:90)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Maiesties letters pattents to Sir William Erskin and Iohn Meldrum, for the lighthouse at Winterton</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>3 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By W. Jones,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1618]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For 50-year patent to levy shipping fees to pay for lighthouse construction and maintenance.</note>
+                  <note>Imprint information from STC (2nd ed.).</note>
+                  <note>"Witnes our selfe at Westminster the 18 day of Feb. in our 15 yeare of our Raigne of England, France and Ireland and of Scotland the 51."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Meldrum, John, --  Sir, d. 1645.</term>
+               <term>Erskine, William, --  Sir, fl. 1618.</term>
+               <term>Lighthouses --  England.</term>
+               <term>Shipping --  Taxation --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb facs="tcp:28891:1" rendition="simple:additions"/>
+                  <head>¶ By the Lords of His Maieſties Priuie Councell.</head>
+                  <p>
+                     <seg rend="decorInit">W</seg>Hereas in diuers Ports of this Kingdome, the Officers of the ſaid Ports doe exact a certaine
+pettie duety, commonly called <hi>Head-money,</hi> vpon euery Paſſenger, aſwell at their
+going forth, as at their entrance into the King<g ref="char:EOLhyphen"/>dome, which is now abſolutely taken away and
+aboliſhed, by a Treatie ſome few yeeres ſince made and concluded betwixt His Maieſtie and
+the moſt <hi>Chriſtian French King,</hi> that now is, both in theſe His Maieſties
+King<g ref="char:EOLhyphen"/>domes, as alſo in the Realme of <hi>France,</hi> and all other Dominions belong<g ref="char:EOLhyphen"/>ing to that
+Crowne, as concerning thoſe of the Engliſh and French Na<g ref="char:EOLhyphen"/>tion: Theſe ſhall bee to let you
+knowe, that His Maieſtie intending (as al<g ref="char:EOLhyphen"/>waies hee hath done) really to obſerue the ſaid
+Treaty in that and all o<g ref="char:EOLhyphen"/>ther Articles therein contained, hath giuen ſtrait charge and
+com<g ref="char:EOLhyphen"/>mandement, that no Officer, nor other perſon whomſoeuer, ſhall preſume hereafter to
+exact or de<g ref="char:EOLhyphen"/>mand the ſaid <hi>Head-money,</hi> vpon any Subiects of His good Brother the moſt
+<hi>Chriſtian French King,</hi> that ſhall haue occaſion to paſſe at that Port, or any
+the members thereof, either at his going forth or landing, but that it may bee free for all ſuch
+perſons, of what condition or degree ſoeuer, againſt whome there ſhall bee no other
+particular cauſe of reſtraint to paſſe, as aforeſaid, without the ex<g ref="char:EOLhyphen"/>action of this or
+any duetie of the like nature whatſoeuer. To which His Maieſties Royall plea<g ref="char:EOLhyphen"/>ſure and
+expreſſe commandement; Wee doe in his Highneſſe name ſtraitly charge and command you and
+euery of you, whome it may concerne, to conforme your ſelues, that you doe not henceforth
+demaund, or ſuffer to be demaunded the ſaid pretended duetie, commonly called
+<hi>Head-money,</hi> nor a<g ref="char:EOLhyphen"/>ny thing in the nature or Lieu thereof, as you will anſwere the
+contrary at your perill, and as you will auoid His Maieſties high diſpleaſure.</p>
+                  <closer>
+                     <dateline>Giuen at the Court at <hi>Whitehall</hi>
+                        <date>the fifteenth of March, in the fifteenth yeere of His Maieſties Reigne of <hi>England,
+France,</hi> and <hi>Ireland,</hi> and of <hi>Scotland</hi> the one and fifty,
+<hi>1617.</hi>
+                        </date>
+                     </dateline> To all Maiors, Portreeues, Cuſtomers, Comptrollers, Searchers of
+Ports, and all other His Maieſties Officers whom it may concerne, and to euery of them.
+<signed>
+                        <list>
+                           <item>
+                              <hi>G. Cant.</hi>
+                           </item>
+                           <item>
+                              <hi>Pembroke.</hi>
+                           </item>
+                           <item>
+                              <hi>Th. Edmonds.</hi>
+                           </item>
+                           <item>
+                              <hi>Fr. Bacon, <hi>Canc.</hi>
+                              </hi>
+                           </item>
+                           <item>
+                              <hi>T. Arundell.</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Lake.</hi>
+                           </item>
+                           <item>
+                              <hi>T. Suffolke.</hi>
+                           </item>
+                           <item>
+                              <hi>Iames Hay.</hi>
+                           </item>
+                           <item>
+                              <hi>Iul. Caeſar.</hi>
+                           </item>
+                           <item>
+                              <hi>Lenox.</hi>
+                           </item>
+                           <item>
+                              <hi>F. Cary.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <g ref="char:leaf">❧</g> Imprinted at London by Bonham Norton, and Iohn Bill, Deputies and Aſsignes of Robert
+Barker, Printer to the Kings moſt Excellent Maieſtie. AN. DOM. M.DC.XVII.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb facs="tcp:28891:2"/>
+                  <p>
+                     <gap reason="missing" extent="1+ pages">
+                        <desc>〈1… pages missing〉</desc>
+                     </gap> receiue, and take the moietie, or one halfe thereof,
+according to the true meaning of this our graunt of and from the Marchants and owners of the goods
+in the Shippes, Hoyes, Barkes and veſſells, from time to time, according to the quantitie of
+the goods and Marchandizes wherewith the ſaid Shippes, Hoyes, Barkes or veſſells ſhall be
+fraught or laden.</p>
+                  <p>And that the ſaid perſons hereafter named, their or either of their Executors,
+Adminiſtrators or Aſſignes, ſubſtitute or ſubſtitutes one or more of them ſhall or
+may likewiſe lawfully demaund, receiue and take of euery Shippe, Hoye, Barke, Fiſherman or
+veſſell being the Shippe, Hoye, Barke or veſſell of any Aliene, Denizen or ſtranger, not
+being our naturall borne Subiects, that ſhall hap<g ref="char:EOLhyphen"/>pen to ſayle, or paſſe from Port to Port,
+by or alongſt the ſaid <hi>North</hi> Coaſt, the like dutie of one pennie upon the Tunne, in
+the voy<g ref="char:EOLhyphen"/>age outward and inward, as aforeſaid, which we will and ordaine, for vs, our Heyres, and
+Succeſſors, ſhall be collected and taken by the perſons hereafter named, their Exequetors,
+Adminiſtrators, Debutis, or Aſſignes, at or in the Port, Harbour, Creeke, or Roade within any
+part of our Dominions where the ſaid Shippes, Hoyes, Barkes or veſſells of any ſuch
+ſtranger, ſhall harbor or put in, although the ſame Shippe, or veſſell ſhall not there
+be vnladed or diſcharged of any the goods or Merchandizes, wherewith it ſhall be fraught or
+laden.</p>
+                  <p>And that the ſame dutie of one pennie vpon the Tunne as aforeſaid being once paide, and the
+receipt thereof being teſtified by thoſe who ſhall be appoynted to receiue the ſame, the
+ſaid Maſters and owners of Shippes and other veſſells, as well our naturall borne Subiects
+as ſtrangers, ſhall be then freed and diſcharged of and from the payment of the ſaid dutie,
+in euery or any Port or Ports in which the ſaid Shippes or veſſells, ſhall or may happen or
+come in euery or any ſuch voyage as aforeſaid.</p>
+                  <p>
+                     <hi>KNOVV YEE</hi> therefore that wee as well in conſideration of the premiſes, as for
+diuers other good cauſes and conſiderati<g ref="char:EOLhyphen"/>ons vs hereunto mouing of our ſpeciall grace,
+certaine knowledge and meere motion, haue giuen and graunted, and by theſe preſents for vs, our
+Heires &amp; Succeſſors, wee doe giue &amp; graunt vnto our truſtie &amp; welbeloued
+ſeruants <hi>Sir VViliam Erskin</hi> Knight, and <hi>Iohn Meldrum</hi> Eſquire, their
+Executors, Adminiſtrators and Aſſignes, as well in regard of the true, faithfull, and
+acceptable ſeruice by the ſaid <hi>Sir William Erskine</hi> &amp; <hi>Iohn Meldrum</hi> to vs
+heeretofore done, and as being the firſt ſuters vnto vs for the erecting and ſetting vp of
+<hi>Light-houſes</hi> at or neer <hi>Winterton</hi> aforeſaide, as alſo for other good
+cauſes and conſiderations vs thereunto mouing free liber<g ref="char:EOLhyphen"/>tie, licence, power and authoritie,
+that they or any of them ſhall and may lawfully make, builde, erect, ſet vp, remoue, and
+maintaine, or cauſe to be made, builded, erected, ſet vp, remoued and maintained in all ſuch
+place and places of the ſaid <hi>North</hi> Coaſt within the compaſſe of two miles of the
+Towne of <hi>Winterton</hi> in our County of <hi>Norfolke</hi> as to them ſhall ſeeme moſt
+fit, needfull and requiſite, ſuch and ſo many conuenient <hi>Light-howſes,</hi> with
+continuall <hi>Lights</hi> to be burning in them during all the night time, whereby the ſaid
+Seafaring men may take notice and be warned of the dangers thereabouts and ſo be the more able to
+auoide and eſcape them, and the ſaid ſhips and veſſells may the better ariue &amp; come
+into their Ports and Harbors without perill, as to them the ſaid <hi>Sir William Erskine</hi> and
+<hi>Iohn Meldrum,</hi> their Executors, Adminiſtrators and Aſſignes or any of them ſhall be
+thought fit, requiſite and needfull.</p>
+                  <p>And for the great &amp; continuall charges to be from time to time ſuſteyned &amp; borne in
+&amp; about the erecting and maintaining of the ſaid <hi>Lights</hi> and <hi>Light-howſes,</hi>
+we doe for vs, our Heires, and Succeſſors will, ordaine, giue and graunt to the ſaid <hi>Sir
+VVilliam Erskine</hi> and <hi>Iohn Meldrum,</hi> their Executors, Adminiſtrators, Deputies and
+Asſignes full power and authoritie, that they and euery of them ſhall and may lawfully
+demaunde, receiue, haue and take of, and from the Maſters and Owners of Shippes, Hoyes, Barkes,
+Fiſhermen, and other Veſſells pasſing or ſayling by or alongſt the ſaid
+<hi>North</hi> Coaſt one pennie vppon the Tunne according to the burthen of the ſame Ships or
+veſſels for euery whole voyage inward &amp; outward as aforeſaid, to be from time to time
+anſwered and payd either in ſuch Port or places where the ſame Ship or Veſſell ſhall be
+fraught or laden, or elſe in ſuch Port or place where the ſame Ship or Veſſell ſhall be
+diſcharged and vnladen as aforeſaid. Neuertheleſſe our will and pleaſure is that for the
+erection, re<g ref="char:EOLhyphen"/>paration, renewing remouing and continuall mayntenance of all or any ſuch
+<hi>Light-houſe</hi> or <hi>Light-houſes</hi> heretofore erected &amp; ſet vp, or which
+hereafter ſhall or may be erected, renued, altered, remoued and mayntained, at or neer
+<hi>Winterton,</hi> or within two miles com<g ref="char:EOLhyphen"/>paſſe of the ſame as aforeſaid, no other or
+further dutie or payment to be demaunded or taken of our ſubiects or others, then the
+afore<g ref="char:EOLhyphen"/>ſaid dutie or payment of one penny in the Voyage vpon the Tunne outward and inward as
+aforeſaid.</p>
+                  <p>
+                     <hi>AND WE</hi> doe further of our ſpeciall grace, certaine knowledge, &amp; meere motion for
+vs, our Heires, and ſucceſſors, giue &amp; grant vnto the ſaid <hi>Sir William Erskine</hi>
+and <hi>Iohn Meldrum,</hi> their executors, adminiſtrators and aſſignes, full power and
+authoritie that they and euerie of them at their wills and pleaſures ſhall or may lawfully
+erect, ſet vp, alter, change, renue and remoue by or at their proper coſts and charges, and by
+and with the aduiſe and direction of expert and skillfull Seafaring men, dwelling or trading
+vp<g ref="char:EOLhyphen"/>on the aforeſaid Coaſt, ſuch and ſo many <hi>Lights</hi> and <hi>Light-houſes,</hi> at
+or neere <hi>Winterton</hi> aforeſaid; or within the compſſe of two miles thereof as
+aforeſaid, as ſhall be thougt fit and as iuſt occaſion or necesſitie ſhall require. To
+haue, hold, exerciſe and enioy the ſaid liberties, licences, powers &amp; authorities, &amp;
+the ſaid dutie or payment of one pennie vpon the Tunne as aforeſaid before by theſe
+preſents giuen and granted and euerie of them vnto the ſaid <hi>Sir William Erskine</hi> and
+<hi>Iohn Meldrum</hi> their Executors, Adminiſt<g ref="char:EOLhyphen"/>rators &amp; Aſſignes, for &amp; during the
+full end and tear me of fiftie yeares from the date of theſe preſents fully to be compleate
+&amp; ended.</p>
+                  <p>
+                     <hi>AND</hi> for aſmuch as any other order or courſe cannot well be taken for the due
+leauiyng of the ſaid dutie or payment of one penny vpon the Tunne in the Voyage outward and
+inward as aforeſaid for and towards the effecting and continuance of this ſo good and
+neceſſarie a worke, then by appoynting the payment and collection of the ſame, to be had
+&amp; made within the Ports, Harbors, Roades and Creekes, vnto the which the ſaid Ships, Barkes,
+and Veſſells ſhall or doe come and arriue, we doe by theſe preſents for vs, our Heires
+and Succeſſors, will, ordaine and appoynt and alſo ſtraightly charge, command, and
+authoriſe all and euery the Cuſtomers, Collectors, Controulers, Receiuers of entries of
+ſhips, Water-baylifes &amp; al other the officers whatſoeuer of and concerning the Cu<g ref="char:EOLhyphen"/>ſtomes
+to vs, our Heires &amp; Succeſſors, and all other the Wardens or keepers of any our Hauens and
+Ports now being, and which from the time hereafter ſhall be as well in our ſeuerall Ports of
+<hi>London</hi> &amp; <hi>New-caſtle,</hi> as in all and euery other the Ports, Harbors, Creekes,
+Roades, and places within our Realme of <hi>England</hi> to whome it ſhall or may appertaine,
+that they or ſome of them being firſt lawfully deputed and appoynted by the ſaid perſons
+herein before named, their Executors, Adminiſtrators or Aſſignes, or ſome of them for the
+leuying and receiuing the ſaid dutie of one pennie vpon the Tunne as aforeſaid from time to
+time &amp; at al tunes hereafter during the ſaid terme of fiftie yeares before ſuch time as
+they or any of them ſhall or may giue any Cocket or other diſcharge whatſoe<g ref="char:EOLhyphen"/>uer, or before
+they ſhall receiue or take any entry reſpectiuely of or for any Ship, Barke or Veſſell
+which hereafter ſhall paſſe or re<g ref="char:EOLhyphen"/>paſſe by or alongſt the <hi>North</hi> Coaſt
+aforeſaid ſhall demaund, collect and receiue the ſaid dutie and allowance of one pennie vpon
+the Tunne in the voiage, outward and inward herein before ſpecified, reſpectiuely of and for
+all and euery ſuch Ship, Hoye Barke, or Veſſell, belonging to any Merchant, Fiſherman, or
+other perſon or perſons our naturall borne Subiects, Denizens and Strangers as ſhall ſayle
+and teade from Port to Port by or along the Coaſt aforeſaide, except the Maiſter or Owner of
+the ſame Ship, Barke or Veſſell ſhall produce &amp; ſhew forth a receipt or acquittance
+of and for the payment of the ſaid dutie vnder the hand and ſeale of ſuch officer or officers
+as ſhall be deputed and appoynted by the ſaid perſons herein before named, their Executors,
+Adminiſtrators or Aſ<g ref="char:EOLhyphen"/>ſignes in euery or any ſuch Cuſtome-houſe or place from whence the
+ſaid Shipe or Veſſell ſhall come teſtifiing the payment and re<g ref="char:EOLhyphen"/>ceipt thereof to be there
+duly had and made.</p>
+                  <p>And that all and euery ſuch Cuſtomer, collector, or other officer in our ſaid
+Cuſtome-houſes to be appoynted and deputed as afore<g ref="char:EOLhyphen"/>ſaid, ſhall yeeld and make iuſt and
+true accompts and payments, of all and every ſuch collections ſum &amp; ſummes of money, as
+by him
+<pb facs="tcp:28891:3"/>them or any of them, ſhall be collected or receiued from
+time to time, vnto the ſaid <hi>Sir William Erskine</hi> Knight, and <hi>Iohn Meldrum</hi> their
+Executors, Adminiſtrators or Aſſignes, to be by them, either or any of them, receiued and
+reteyned to their owne proper vſe and behoofe, for &amp; in reſpect of their great and
+continuall charges, to be ſuſteined and borne, in erecting, renewing, altering, remouing and
+continuall maintaining of the ſaid <hi>Light-houſes</hi> and <hi>Lights,</hi> in the night
+ſeaſon as aforeſaid, without any accompt or other thing therefore, or for any part thereof by
+them to be made or giuen for the ſame, other then the yearely rent hereby to vs our Heyres and
+Succeſſors receiued, yeelding, and paying therefore vnto vs, our Heires and Succeſſors, the
+yearely rent or ſumme of ſix pounds thirteene ſhillings and foure pence of lawfull money of
+<hi>England,</hi> at the receipt of our Exchequer at <hi>Weſtminſter,</hi> or to our Receiuer
+or Receiuers, of our Countie of <hi>Norffolke</hi> for the time being, at the feaſt of the
+Annunciation of the bleſſed virgine <hi>Mary,</hi> and at <hi>S. Michaell</hi> the
+<hi>Arch-Angell,</hi> by even and equall proportion, during the ſaid terme, or within thirty
+dayes next after eyther of the ſaid feaſtes.</p>
+                  <p>And to the end, that the ſaid <hi>S VVilliam Erskine</hi> and <hi>Iohn Mledrum,</hi> their
+Executors, Adminiſtrators and Aſſignes, ſhall and may the better haue &amp; enioye the full
+force, benifit and effect of this our preſent graunt; and to the intent and purpoſe, that the
+Ma<g ref="char:EOLhyphen"/>ſter, Wardens and Aſſiſtants of the Trinitie Houſe of <hi>Debtford Strond</hi>
+aforeſaid, and all others whoſoeuer, may be reſtrayned during the terme of Fiftie yeares
+aforeſaid, from continuing, reparing, renuing, remouing and maynteyning, any
+<hi>Light-houſe</hi> or <hi>Light-houſes</hi> already erected and ſet vp, ſince
+<hi>March</hi> laſt, within the ſpace of two Miles of the Towne of <hi>Winterton</hi>
+aforeſaid, and from erecting and ſetting vp during the ſaid terme, any other new
+<hi>Light-houſe</hi> or <hi>Light-houſes,</hi> at or neere the ſaid Towne, or within two
+miles thereof and of and from the receiuing, hauing or taking, by any wayes, meanes, or pretences
+whatſoeuer, any collection, contribution, ſume or ſumes of money whatſoeuer for the ſame,
+during the ſaid Terme of Fiftie yeares before ſpecified, notwithſtanding any former courſe,
+taken or had, by, or for the ſaid Maſter, Wardens and Aſſiſtants of the Trinitie houſe
+of <hi>Debtford Srond</hi> aforeſaid, for the <hi>Light-houſes</hi> ſince <hi>March</hi>
+laſt by them ecected, at or neere <hi>VVinterton</hi> aforeſaid.</p>
+                  <p>Wee doe by theſe preſents, for vs, our Heires and Succeſſors, authorize, the Lords of
+our Priuie Councell for the time being, and wee doe alſo ſtraightly charge, require and command
+all Mayors, Sheriffes, Iuſtices of peace, Captaines of our Caſtles, and Forts, Bayliffes and
+other Officers and Miniſters whatſoeuer, of vs, our Heyres and Succeſſors to whom it doth
+and ſhall appertaine, that they and euery of them bee from time to time hereafter ayding and
+aſſiſting vnto the ſaid <hi>William Erskin Knight</hi> &amp; <hi>Iohn Meldrum,</hi> their
+and either of their Executors, Adminiſtrators and Aſſignes, ſubſtitutes, factors and
+ſeruants, and euery of them, in &amp; concerning the premiſes vpon euery complaint to be made
+touching or concerning the ſame, according as in Iuſtice ſhall be by them or any of them
+deſired and requeſted in that behalfe, and theſe preſents or the intolement thereof ſhall
+be vnto them and euery of them a ſufficient warrant and diſcharge for the doing, performing and
+executing the ſame.</p>
+                  <p>
+                     <hi>AND</hi> laſtly we doe hereby ſignifie and declare our expreſſe will and pleaſure
+to be, and we doe for vs, our Heires and Succeſ<g ref="char:EOLhyphen"/>ſors, ſtraightly charge and command the
+ſaid Maiſter, Wardens, and Aſſiſtants of the Trinitie houſe of <hi>Debtford-Strond</hi>
+and their ſucceſſors, that they and euerie of them, their factors and ſeruants appoynted by
+them ſhall and doe immediately from hence<g ref="char:EOLhyphen"/>forth ſurceaſe and deſiſt as well of and from
+erecting or ſetting vp of any <hi>Light-houſe</hi> or <hi>Light-houſes</hi> at
+<hi>VVinterton</hi> aforeſaid, or within two miles compaſſe thereof as aforeſaid, as of and
+from the continuing or maintaining of any <hi>Light</hi> or <hi>Lights</hi> burning in any
+<hi>Light-houſe</hi> or <hi>Light-houſes</hi> ſince <hi>March</hi> laſt by them there
+erected or ſet vp, &amp; that they and euery of them ſhall for beare from hence<g ref="char:EOLhyphen"/>forth to
+demande, receiue or take any dutie, payment allowance, or benifit of or from any our ſubiects or
+others trading or paſ<g ref="char:EOLhyphen"/>ſing by or alongſt the ſaid Coaſt, for or in reſpect of the
+ſame <hi>Light-houſe</hi> or <hi>Light-houſes</hi> by or vnder any colour, pretence or
+pretext, whatſoeuer any Act, Statute, Ordinance, Prouiſion, Charter and Graunt, heretofore had
+made, enacted, or prouided, or any other cauſe, conſideration, matter, or thing, to the
+contrarie thereof in any wiſe, notwithſtanding, &amp; that vpon the paine and perill of
+incurring our high and heauie diſpleaſure for their contempt or neglect of this our royall will
+and commandement herein ſo expreſly declared in this behalfe, although expreſſe mention of
+the true yearely value or certainty of the premiſes or of any of them, or of any other gift or
+graunt by vs or any of our Progenitors or Predeceſſors to the aforeſaid <hi>Sir William
+Erskine</hi> and <hi>Iohn Meldrum</hi> or either of them before theſe times made in theſe
+preſents, is not made, or any Statute, Act, Ordinance, Prouiſion, Proclamation or Reſtraint
+heretofore had made, ſet forth, ordained or prouided or any other matter, cauſe or thing
+whatſoeuer to the contrarie in any wiſe notwithſtanding.</p>
+                  <closer>
+                     <dateline>In witneſſe whereof we haue cauſed theſe our Letters to be made Patents, witnes our
+ſelfe
+at <hi>Weſtminſter</hi>
+                        <date>the <hi>18</hi> day of <hi>Feb.</hi> in our <hi>15</hi> yeare of our Raigne of <hi>England,
+France</hi> and <hi>Ireland</hi> and of <hi>Scotland</hi> the
+<hi>51.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+                  <closer>God ſaue the King.</closer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
